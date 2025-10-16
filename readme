@@ -1,1 +1,1 @@
-Uart收发数据储存在uart_tx_data和uart_rx_data，can收发数据储存在can_rx_data
+tim文件即工程文件。Uart收发数据储存在uart_tx_data和uart_rx_data，can收发数据储存在can_rx_data
