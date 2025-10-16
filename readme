@@ -1,1 +1,1 @@
-作业在本周五中午前上交（明天周四再写一下
+Uart收发数据储存在uart_tx_data和uart_rx_data，can收发数组储存在can_rx_data
